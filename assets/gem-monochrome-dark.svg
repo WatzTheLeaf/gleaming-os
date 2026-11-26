@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="26" height="26">
+  <!-- Same geometry as widgets::gem, in LINEN only: the facets are told apart by a 5-unit gap
+       cut along their shared edges (y = 40 and x = 50), half on each side -->
+  <g fill="#5B3BA6">
+    <polygon points="2.273,37.5 25,12.5 75,12.5 97.727,37.5"/>
+    <polygon points="2.174,42.5 47.5,42.5 47.5,94.625"/>
+    <polygon points="52.5,42.5 97.826,42.5 52.5,94.625"/>
+  </g>
+</svg>

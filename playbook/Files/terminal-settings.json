@@ -1,0 +1,79 @@
+{
+  "$help": "https://aka.ms/terminal-documentation",
+  "$schema": "https://aka.ms/terminal-profiles-schema",
+  "defaultProfile": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
+  "disabledProfileSources": [
+    "Windows.Terminal.Azure",
+    "Windows.Terminal.PowershellCore",
+    "Windows.Terminal.SSH",
+    "Windows.Terminal.VisualStudio",
+    "Windows.Terminal.Wsl"
+  ],
+  "profiles": {
+    "defaults": {
+      "colorScheme": "Amethyst Shard (Dark)",
+      "font": {
+        "face": "Hurmit Nerd Font"
+      },
+      "startingDirectory": null
+    },
+    "list": [
+      {
+        "guid": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
+        "hidden": false
+      },
+      {
+        "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
+        "hidden": false
+      }
+    ]
+  },
+  "schemes": [
+    {
+      "name": "Amethyst Shard (Dark)",
+      "foreground": "#E9E3EE",
+      "background": "#1E1236",
+      "cursorColor": "#EDBE5E",
+      "selectionBackground": "#5B3BA6",
+      "black": "#3A2470",
+      "red": "#F07A86",
+      "green": "#A3B18E",
+      "yellow": "#EDBE5E",
+      "blue": "#82A6F0",
+      "purple": "#AE90EC",
+      "cyan": "#6FC2BB",
+      "white": "#CCC6BA",
+      "brightBlack": "#8C80AE",
+      "brightRed": "#FF9FA8",
+      "brightGreen": "#C4D1AB",
+      "brightYellow": "#F7D893",
+      "brightBlue": "#AFC6FA",
+      "brightPurple": "#D6C8F5",
+      "brightCyan": "#A9E0DA",
+      "brightWhite": "#F5F0E6"
+    },
+    {
+      "name": "Amethyst Shard (Light)",
+      "foreground": "#2A1E45",
+      "background": "#F5F0E6",
+      "cursorColor": "#5B3BA6",
+      "selectionBackground": "#D6C8F5",
+      "black": "#2A1E45",
+      "red": "#B22E43",
+      "green": "#3F5B3E",
+      "yellow": "#8A5A0E",
+      "blue": "#2C55A8",
+      "purple": "#5B3BA6",
+      "cyan": "#1E6B66",
+      "white": "#4F4565",
+      "brightBlack": "#706683",
+      "brightRed": "#BF3B50",
+      "brightGreen": "#526E43",
+      "brightYellow": "#965A1A",
+      "brightBlue": "#4169BE",
+      "brightPurple": "#7756C4",
+      "brightCyan": "#237A74",
+      "brightWhite": "#17102A"
+    }
+  ]
+}

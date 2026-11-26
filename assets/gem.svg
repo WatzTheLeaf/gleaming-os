@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="26" height="26">
+  <!-- Same geometry as widgets::gem: point(x, y) = center + (x, y) * size / 2 -->
+  <polygon points="0,40 25,12.5 75,12.5 100,40" fill="#D6C8F5"/>
+  <polygon points="0,40 50,40 50,97.5" fill="#7E5CCB"/>
+  <polygon points="50,40 100,40 50,97.5" fill="#5B3BA6"/>
+</svg>
